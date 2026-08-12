@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.0.0/VstavlyalkaSetup.exe",
-    "changes": "Первая версия Вставлялки."
+    "version": "1.0.1",
+    "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.0.1/VstavlyalkaSetup.exe",
+    "changes": "*Исправлены ошибки\n* Исправлены английский кнопки Yes/No на русские Да/Нет."
 }
