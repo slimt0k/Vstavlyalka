@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "changes": "Структурные изменения",
-  "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.2.0/VstavlyalkaSetup_1.2.0.exe"
+  "version": "1.2.1",
+  "changes": "ГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ\n- Добавлено всплывающее меню\n- Добавлено меню Статистики\n- Изменен дизайн настроек\n- В настройках добавлена кнопка Открыть папку с логами\n- Исправлены мелкие ошибки",
+  "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.2.1/VstavlyalkaSetup_1.2.1.exe"
 }
