@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "changes": "ОБНОВЛЕНИЕ\n\n- Добавлены 2 мини игры и статистика для них",
-  "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.2.3/VstavlyalkaSetup_1.2.3.exe"
+  "version": "1.2.4",
+  "changes": "ОБНОВЛЕНИЕ\n\nv1.2.3\n- Добавлены 2 мини игры и статистика для них\n\nv1.2.4\n- Исправлен баг интерфейса при создании макроса с длинным названием",
+  "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.2.4/VstavlyalkaSetup_1.2.4.exe"
 }
