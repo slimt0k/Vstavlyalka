@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "changes": "ОБНОВЛЕНИЕ\n- Добавлен backup в настройках\n- Добавлено окно мини игр, игры будут позже\n- Добавлен Калькулятор скидок",
-  "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.2.2/VstavlyalkaSetup_1.2.2.exe"
+  "version": "1.2.3",
+  "changes": "ОБНОВЛЕНИЕ\n\n- Добавлены 2 мини игры и статистика для них",
+  "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/download/v1.2.3/VstavlyalkaSetup_1.2.3.exe"
 }
