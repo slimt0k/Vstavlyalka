@@ -1,5 +1,6 @@
 {
     "version": "1.2.5",
     "release_page_url": "https://github.com/slimt0k/Vstavlyalka/releases/tag/v1.2.5",
+    "download_url": "https://github.com/slimt0k/Vstavlyalka/releases/tag/v1.2.5",
     "changes": "ОБНОВЛЕНИЕ\n\nv1.2.5\n- Теперь обновление происходит не автоматически, новый .exe нужно скачивать самостоятельно\n- Убрана возможность запускать Вставлялку при запуске ПК\n- Добавлена возможность менять макросы местами\n- Переписан подробный гайд"
 }
